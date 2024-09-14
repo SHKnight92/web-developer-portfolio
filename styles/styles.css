@@ -63,3 +63,11 @@ nav li>a {
     text-decoration: none;
     color: #454545;
 }
+
+/* Header styles */
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
